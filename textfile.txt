@@ -1,1 +1,2 @@
-this is github page
+this is github 
+git installation
